@@ -1,6 +1,8 @@
 # tutorials-vue-chartjs-getting-started
 This is a vue.js single-page application that uses vue-chartjs. The steps from getting started guide were followed.
 
+### Screenshot
+![](./screenshots/screenshot.png)
 
 
 ### Built with
